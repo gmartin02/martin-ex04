@@ -1,19 +1,19 @@
 /*
- * UCF COP3330 Fall 2021 Exercise 4 Solution
+ * UCF COP3330 Fall 2021 Assignment 1 Solution
  * Copyright 2021 Gabriel Martin
  */
 
 /*
- * create Scanner to gert user input
- * prompt user for noun
+ * create Scanner to get user input
+ * prompt for noun
  * 'noun' = first user input
- *  prompt user for verb
+ *  prompt for verb
  * 'verb' = second user input
- *  prompt user for adjective
+ *  prompt for adjective
  * 'adjective' = third user input
- *  prompt user for adverb
+ *  prompt for adverb
  * 'adverb' = fourth user input
- *  use printf for the output in the order: verb, adverb, noun, adjective with any statement
+ *  printf in the order: verb, adverb, noun, adjective
  */
 
 import java.util.Scanner;
